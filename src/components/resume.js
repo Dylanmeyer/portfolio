@@ -26,8 +26,8 @@ class Resume extends Component {
               have the same drive and determination as myself.
             </p>
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
-            <h5>Address</h5>
-            <p>112 Cypress Way Westridge Mitchell's Plain 7798</p>
+            <h5>Suburb</h5>
+            <p>Westridge Mitchell's Plain</p>
 
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
             <h5>Hobbies</h5>
@@ -44,33 +44,35 @@ class Resume extends Component {
             <h2>Education</h2>
 
             <Education
-              startYear={2004}
-              endYear={2011}
-              schoolName="Parkhurst Primary School"
-            />
-
-            <Education
               startYear={2012}
               endYear={2016}
               schoolName="Princeton Senior Secondary"
               schoolSubjects=" Pure Maths, Physics, Civil Engineering, Engineering Graphics Design, English, Afrikaans"
+            />
+            <Education
+              startYear={2004}
+              endYear={2011}
+              schoolName="Parkhurst Primary School"
             />
             <hr style={{ borderTop: "3px solid #e22947" }} />
 
             <h2>Job Experience</h2>
 
             <Experience
-              startYear={2016}
-              endYear={2016}
-              jobName="Checkers"
-              jobDescription="I worked at Checkers during the December holidays as a General Worker."
+              startYear={2017}
+              endYear={2019}
+              jobName=" (Junior Mechanical Inspector - Tellumat (PTY) Ltd)"
+              jobDescription="Completed an internship at Tellumat (PTY) Ltd where I worked as a junior mechanical inspector. My
+              duties included inspecting all incoming electronic and custom mechanical components for various
+              projects.
+              "
             />
 
             <Experience
-              startYear={2017}
-              endYear={2019}
-              jobName="Junior Mechanical Inspector"
-              jobDescription="Completed a Internship Tellumat (PTY) Ltd where i worked as a junior mechanical inspector inspecting all incoming electronic and custom mechanical components for various projects."
+              startYear={2016}
+              endYear={2016}
+              jobName=" (General Worker - Checkers)"
+              jobDescription="I worked at Checkers during the December holidays as a General Worker dealing with mainly packing shelves ,stock count and dealing with customers."
             />
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Coding Skills</h2>

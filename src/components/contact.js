@@ -11,11 +11,14 @@ class Contact extends Component {
             <h2>Dylan Meyer</h2>
             <img src={Myavatar} alt="avatar" className="avatar-img" />
 
-            <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              I am an aspiring young developer with a drive like no other. I
-              have a passion for many things and not too long ago developed one
-              for coding. My goal is to become a full stack developer but would
-              mainly focus on frontend development for now.
+            <p
+              style={{
+                width: "75%",
+                margin: "auto",
+                paddingTop: "1em",
+              }}
+            >
+              <h2>Junior Web Developer</h2>
             </p>
           </Cell>
           <Cell col={6}>

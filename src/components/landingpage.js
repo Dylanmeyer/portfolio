@@ -23,7 +23,7 @@ class Landing extends Component {
               <div className="social-links">
                 {/* LinkedIn */}
                 <a
-                  href="https://za.linkedin.com/"
+                  href="https://www.linkedin.com/in/dylan-meyer-3b6960197/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -32,7 +32,7 @@ class Landing extends Component {
 
                 {/* Github */}
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/Dylanmeyer"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -41,7 +41,7 @@ class Landing extends Component {
 
                 {/* Facebook */}
                 <a
-                  href="https://web.facebook.com/?_rdc=1&_rdr"
+                  href="https://www.facebook.com/dylan.meyer.94043"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -50,7 +50,7 @@ class Landing extends Component {
 
                 {/* Instagram */}
                 <a
-                  href="https://www.instagram.com/?hl=en"
+                  href="https://www.instagram.com/dylanmeyer64/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
