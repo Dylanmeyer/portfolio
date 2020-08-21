@@ -117,11 +117,12 @@ class Projects extends Component {
               }}
             ></CardTitle>
             <CardText>
-              A simple Fizzbuzz task using javascript for the first time.
+              My website Code Corner built using javascript to help beginners
+              with coding.
             </CardText>
             <CardActions border>
               <Button
-                href="https://github.com/Dylanmeyer/FizzBuzz_Exercise"
+                href="https://github.com/Dylanmeyer/Code-Corner.git"
                 target="_blank"
               >
                 GitHub
